@@ -1,0 +1,104 @@
+{
+  "peliculas": [
+    {
+      "titulo": "El Padrino",
+      "año": 1972,
+      "director": {
+        "nombre": "Francis Ford Coppola",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "generos": ["Crimen", "Drama"]
+    },
+    {
+      "titulo": "El Padrino II",
+      "año": 1974,
+      "director": {
+        "nombre": "Francis Ford Coppola",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+      "generos": ["Crimen", "Drama"]
+    },
+    {
+      "titulo": "El Padrino III",
+      "año": 1990,
+      "director": {
+        "nombre": "Francis Ford Coppola",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Al Pacino", "Diane Keaton", "Andy García"],
+      "generos": ["Crimen", "Drama"]
+    },
+    {
+      "titulo": "Buenos muchachos",
+      "año": 1990,
+      "director": {
+        "nombre": "Martin Scorsese",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+      "generos": ["Crimen", "Biografía"]
+    },
+    {
+      "titulo": "Scarface",
+      "año": 1983,
+      "director": {
+        "nombre": "Brian De Palma",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"],
+      "generos": ["Crimen", "Drama"]
+    },
+    {
+      "titulo": "Enemigos públicos",
+      "año": 2009,
+      "director": {
+        "nombre": "Michael Mann",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Johnny Depp", "Christian Bale", "Marion Cotillard"],
+      "generos": ["Crimen", "Drama", "Histórica"]
+    },
+    {
+      "titulo": "Érase una vez en América",
+      "año": 1984,
+      "director": {
+        "nombre": "Sergio Leone",
+        "nacionalidad": "Italiano"
+      },
+      "reparto": ["Robert De Niro", "James Woods", "Elizabeth McGovern"],
+      "generos": ["Crimen", "Drama"]
+    },
+    {
+      "titulo": "Donnie Brasco",
+      "año": 1997,
+      "director": {
+        "nombre": "Mike Newell",
+        "nacionalidad": "Británico"
+      },
+      "reparto": ["Johnny Depp", "Al Pacino", "Michael Madsen"],
+      "generos": ["Crimen", "Drama", "Biografía"]
+    },
+    {
+      "titulo": "Los intocables",
+      "año": 1987,
+      "director": {
+        "nombre": "Brian De Palma",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Kevin Costner", "Sean Connery", "Robert De Niro"],
+      "generos": ["Crimen", "Drama", "Histórica"]
+    },
+    {
+      "titulo": "Casino",
+      "año": 1995,
+      "director": {
+        "nombre": "Martin Scorsese",
+        "nacionalidad": "Estadounidense"
+      },
+      "reparto": ["Robert De Niro", "Sharon Stone", "Joe Pesci"],
+      "generos": ["Crimen", "Drama"]
+    }
+  ]
+}
